@@ -2,7 +2,7 @@
 * Name: Joseph D'Esposito
 * Course: CS 250
 * Last Update: 9/12/2023
-* Program: Programming Assignment 5
+* Program: Programming Assignment 1
 *
 * This program prompts the user to enter the starting population, birth rate,
 * death rate and the number of years to project. Then it calculates and prints
